@@ -2,9 +2,9 @@
 About<br>Experienced front-end developer with a strong background in HTML5, CSS3, Next.js, Tailwind, JavaScript and TypeScript. Proficient in widely used JavaScript frameworks such as jQuery, React, and Node.js. Skilled in implementing Bootstrap and Sass with the BEM methodology for effective styling.<br><br>Personal Qualities:<br><br>- Quick learner with the ability to apply new knowledge to work.<br>- Strong problem-solving skills, maintaining composure under pressure.<br>- Advanced knowledge of PC hardware setup and configuration.<br>- Skillful in translating technical language into clear and understandable explanations.<br>- Proficient in defusing challenging situations through effective listening and understanding.<br><br>Interests:<br><br>- Exploring new technologies and devices.<br>- Engaged in programming.<br>- Enjoys reading books.<br>- Passionate about sports.<br>- Perform music on various instruments
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imactuallycrocodile)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-miskevich-6675a8228/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miskotop1234@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imactuallycrocodile)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-miskevich-6675a8228/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miskotop1234@gmail.com)
+
+
 
 
 # 💻 Tech Stack:
