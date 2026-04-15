@@ -15,7 +15,7 @@ Full-Stack JavaScript Developer passionate about building scalable and high-perf
 [![](https://komarev.com/ghpvc/?username=vitaliyMiskevuch1212&icon=1&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/miskotop1234@gmail.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/c/vitaliimiskevych/posts) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/miskotop1234@gmail.com](https://www.paypal.com/donate/?hosted_button_id=QZSQSNZ8ECUSJ)) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/vitaliimiskevych/posts) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
