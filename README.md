@@ -1,5 +1,17 @@
 # 💫 About Me:
-Full-Stack JavaScript Developer passionate about building scalable and high-performance web applications. I focus on clean architecture, reusable components, and writing maintainable code that delivers real value. I enjoy collaborating in teams, solving challenging problems, and creating impactful products.<br><br> <br><br>Tech Stack:<br><br> Front-end: JavaScript (ES6+), TypeScript, React, Next.js, Gatsby, Redux, React Hooks, Tailwind CSS, Material UI, SCSS, Framer Motion<br><br> Back-end: Node.js, Express.js, REST API, MongoDB, SQL, Firebase, Shopify<br><br> Tools & Workflow: Git, Docker, Jest, Axios, Agile (Scrum/Kanban), Jira, Trello<br><br> <br><br>Actively looking for opportunities to contribute to impactful projects and grow as a developer.
+Full-Stack Engineer building AI-enabled and real-time web products with TypeScript, React, Angular, Next.js, Node.js and NestJS.
+
+With 4+ years of experience, I’ve shipped production features across SaaS, e-commerce and communication platforms:
+• Building real-time calling features on WebRTC, SIP and FreeSWITCH at CallBlitz 
+• Integrated the OpenAI API into a Next.js + NestJS application at Cyphoria to enable AI-powered features and automate user workflows
+• Improved page load times by 35% through rendering optimisations and technical SEO improvements
+• Covered critical flows with Playwright E2E tests and mentored junior developers
+I care about pragmatic engineering: simple architecture, solid tests, and features that move product metrics — not complexity for its own sake.
+I’m looking for a team where I can own a product area long-term.
+
+Stack: TypeScript, React, Angular, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, Redis, WebRTC, OpenAI API, Docker, GCP, Jest, Playwright.
+
+London, UK · UK right to work · Open to remote, hybrid and on-site Full-Stack roles (UK/EU time zones).
 
 
 ## 🌐 Socials:
